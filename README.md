@@ -1,4 +1,4 @@
-# data-retrieval-spotify
+# Data-Retrieval-Spotify
 Python Programming - Spotify Data Retrieval (API)
 
 # Spotify Data Retrieval Tools
