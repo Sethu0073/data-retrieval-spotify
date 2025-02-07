@@ -3,7 +3,7 @@ Python Programming - Spotify Data Retrieval (API)
 
 # Spotify Data Retrieval Tools
 
-A collection of Python scripts to interact with the Spotify Web API for retrieving user library data and artist information. This repository provides easy-to-use tools for accessing various Spotify data endpoints.
+A collection of Python scripts to interact with Spotify Web API for retrieving user library data and artist information. This repository provides easy-to-use tools for accessing various Spotify data endpoints.
 
 ## Features
 
