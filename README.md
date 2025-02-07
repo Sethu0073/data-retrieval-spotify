@@ -66,7 +66,7 @@ Update the credentials in the scripts:
 3. A Spotify authorization page will open in your browser.
 4. Authorize the application.
 5. You will be redirected to your redirect URI.
-6. In the URL of the redirect page, look for the `code` parameter after `?code=`.
+6. In the URL of redirect page, look for the `code` parameter after `?code=`.
 7. Copy the `code` value (everything after `?code=` and before any `&` if present).
 8. In the second cell of the notebook, replace the placeholder:
    ```python
